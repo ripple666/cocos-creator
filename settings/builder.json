@@ -1,9 +1,18 @@
 {
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": true,
   "excludeScenes": [],
-  "includeAnysdk": false,
-  "includeSdk": [
-    "anysdk"
-  ],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
   "orientation": {
     "landscapeLeft": true,
     "landscapeRight": true,
@@ -11,7 +20,18 @@
     "upsideDown": false
   },
   "packageName": "org.cocos2d.HellEscape",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
   "startScene": "b85856bd-e358-4716-bcf4-5e0fdafd269b",
   "title": "Basement",
-  "webOrientation": "portrait"
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "wxd66b3795d7993acd",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "ade0bf28-b028-47",
+  "zipCompressJs": true
 }

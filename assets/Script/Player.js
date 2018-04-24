@@ -10,6 +10,7 @@ cc.Class({
 
     },
     noteBox:function(){
+    	console.log(this.node)
         return this.node.getBoundingBox();
     }
 
