@@ -97,7 +97,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 640,
-      "height": 960
+      "height": 1100
     },
     "_rotationX": 0,
     "_rotationY": 0,
@@ -106,7 +106,7 @@
     "_position": {
       "__type__": "cc.Vec2",
       "x": 320,
-      "y": 480
+      "y": 550
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -206,7 +206,7 @@
     "_enabled": true,
     "isAlignOnce": false,
     "_target": null,
-    "_alignFlags": 40,
+    "_alignFlags": 18,
     "_left": 0,
     "_right": 0,
     "_top": 0,
@@ -348,7 +348,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 131,
+      "width": 131.11,
       "height": 40
     },
     "_rotationX": 0,
@@ -357,8 +357,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": -202.25,
-      "y": 433
+      "x": 0,
+      "y": 0
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -399,10 +399,10 @@
     "_enabled": true,
     "isAlignOnce": true,
     "_target": null,
-    "_alignFlags": 8,
+    "_alignFlags": 18,
     "_left": 52.25,
     "_right": 0,
-    "_top": 0,
+    "_top": 27,
     "_bottom": 0,
     "_verticalCenter": 0,
     "_horizontalCenter": 0,
@@ -451,7 +451,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
+      "width": 44.49,
       "height": 80
     },
     "_rotationX": 0,
@@ -460,8 +460,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 190.245,
-      "y": 429
+      "x": 190,
+      "y": 499
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -502,10 +502,10 @@
     "_enabled": true,
     "isAlignOnce": true,
     "_target": null,
-    "_alignFlags": 32,
+    "_alignFlags": 33,
     "_left": 0,
     "_right": 107.755,
-    "_top": 0,
+    "_top": 11,
     "_bottom": 0,
     "_verticalCenter": 0,
     "_horizontalCenter": 0,
@@ -529,7 +529,7 @@
     "_designResolution": {
       "__type__": "cc.Size",
       "width": 640,
-      "height": 960
+      "height": 1100
     },
     "_fitWidth": true,
     "_fitHeight": true
